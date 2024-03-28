@@ -1,2 +1,3 @@
 # .github
-Informações padrões para todo o desenvolvimento da organização.
+
+Pesquisa científica sobre Machine Learning e detecção de intrusão na Universidade Federal de São Carlos (UFSCar).👋🏻
